@@ -1,0 +1,19 @@
+{
+  "name": "leb-eats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": [
+    "Raoul Boulos",
+    "Ramy Abou Sawan",
+    "Tarek Ghosn"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express-generator": "^4.16.1"
+  }
+}
